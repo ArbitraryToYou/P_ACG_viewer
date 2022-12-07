@@ -1,0 +1,11 @@
+<RCC>
+    <qresource prefix="/">
+        <file>icon/close_hover32.png</file>
+        <file>icon/close_normal32.png</file>
+        <file>font/apple_slim.ttf</file>
+        <file>font/geetype.ttf</file>
+        <file>icon/quit_hover.png</file>
+        <file>icon/quit_normal.png</file>
+        <file>icon/error_img.png</file>
+    </qresource>
+</RCC>
